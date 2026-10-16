@@ -1,0 +1,17 @@
+# Local Android SDK path
+local.properties
+
+# Gradle and Kotlin caches/build outputs
+.gradle/
+.kotlin/
+**/build/
+
+# Android Studio / IntelliJ local files
+.idea/
+*.iml
+
+# Local agent/context tooling
+.agents/
+.context/
+.serena/
+skills-lock.json
